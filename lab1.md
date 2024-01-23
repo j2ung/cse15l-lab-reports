@@ -8,9 +8,11 @@
    
    `cd` with a path to a directory as an argument
 
-   ![Image](CDwithArgument.md)
+   ![Image](CDwithDirectoryArgument.md)
 
    `cd` a path to a file as an argument
+   
+   ![Image](CDwithFileArgument.md)
    
 1. Print Working Directory
    
