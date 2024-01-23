@@ -2,7 +2,7 @@
 
 ## Change Directory Command
 
-   1. `cd` with no arguement
+   1) `cd` with no arguement
 
    ```
    {
@@ -15,7 +15,7 @@
    - Since there was no argument to change to a different directory, nothing happened.
    - It is not an error.
      
-   2. `cd` with a path to a directory as an argument
+   2) `cd` with a path to a directory as an argument
 
    ```
    {
@@ -28,7 +28,7 @@
    - Since the argument was "lecture1/messages/", then the directory was changed to "/home/lecture1/messages/".
    - It is not an error.
 
-   3. `cd` a path to a file as an argument
+   3) `cd` a path to a file as an argument
   
    ```
    {
@@ -44,7 +44,7 @@
    
 ## List Files Command
    
-   1. `ls` with no arguement
+   1) `ls` with no arguement
    
    ```
    {
@@ -57,7 +57,7 @@
    - Since there was no argument, it lists the directory in /home.
    - It is not an error.
     
-   2. `ls` with a path to a directory as an argument
+   2) `ls` with a path to a directory as an argument
    
    ```
    {
@@ -70,7 +70,7 @@
    - Since the argument was "lecture1/messages" in the /home directory, it lists the text files in messages.
    - It is not an error.
     
-   3. `ls` a path to a file as an argument
+   3) `ls` a path to a file as an argument
    
    ```
    {
@@ -86,7 +86,7 @@
    
 ## Concatenate Command
    
-   1. `cat` with no arguement
+   1) `cat` with no arguement
    
    ```
    {
@@ -99,7 +99,7 @@
    - Since there was no argument, there is nothing to concatenate.
    - It is not an error.
     
-   2. `cat` with a path to a directory as an argument
+   2) `cat` with a path to a directory as an argument
    
    ```
    {
@@ -112,7 +112,7 @@
    - Since the argument was "lecture1/messages", there was an error message.
    - This is an error because there is nothing to concatenate in a directory
     
-   3. `cat` a path to a file as an argument
+   3) `cat` a path to a file as an argument
   
    ```
    {
