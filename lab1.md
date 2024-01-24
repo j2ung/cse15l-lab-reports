@@ -2,7 +2,7 @@
 
 ## Change Directory Command
 
-   1) `cd` with no arguement
+   1. `cd` with no arguement
 
    ```
    {
@@ -14,8 +14,8 @@
    - The working directory was /home.
    - Since there was no argument to change to a different directory, nothing happened.
    - It is not an error.
-     
-   2) `cd` with a path to a directory as an argument
+   
+   2. `cd` with a path to a directory as an argument
 
    ```
    {
@@ -28,7 +28,7 @@
    - Since the argument was "lecture1/messages/", then the directory was changed to "/home/lecture1/messages/".
    - It is not an error.
 
-   3) `cd` a path to a file as an argument
+   3. `cd` a path to a file as an argument
   
    ```
    {
@@ -40,8 +40,7 @@
    - The working directory is /home/lecture1.
    - Since the argument was "Hello.java", it printed an error message.
    - This is an error because the argument requires a directory not a file.
-   
-   
+      
 ## List Files Command
    
    1) `ls` with no arguement
