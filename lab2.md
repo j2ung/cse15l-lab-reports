@@ -48,5 +48,5 @@ class ChatServer {
 
 ## Part 3 - Reflection
 
-In lab 2 and 3, I learned how to remotely connect to servers.
+In lab 2 and 3, I learned how to remotely connect to servers. I was able to use Java's built-in classes to build and run web servers. I began to understand the purpose of paths and the reason behind every interaction I had.
 
