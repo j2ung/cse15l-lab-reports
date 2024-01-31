@@ -40,9 +40,9 @@ class ChatServer {
 }
 ```
 ![Image](lab2-ss1.png)
-    *
+    * When ``/add-message?s=Hello&user=Julia`` is used, it calls the ``handleRequest()`` method. By splitting the &'s and ='s, it separates the arguement and returns the user's name and the message. In my case, the name is Julia and the message is "Hello".
 ![Image](lab2-ss2.png)
-    * 
+    * When ``/add-message?s=How%20are%20you&user=Bob`` is used after the first argument, it saves the previous line and outputs the new argument in the next line. Like the previous one, it calls ``handleRequest()``. After typing "How are you" in the URL, the URL replaces the spaces as "%20", but outputs the message as "Bob: How are you". This argument still functions because the code separates by &'s and ='s.
 
 ## Part 2 - `ls` of Chat Server
 
