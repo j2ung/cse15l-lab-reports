@@ -39,6 +39,11 @@ class ChatServer {
 }
 }
 ```
+![Image](lab2-ss1.png)
+    *
+![Image](lab2-ss2.png)
+    * 
+
 ## Part 2 - `ls` of Chat Server
 
 ## Part 3 - Reflection
