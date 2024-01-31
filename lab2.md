@@ -51,9 +51,9 @@ class ChatServer {
 
     
 2) Path to Public Key    
-    
-    
-3)``ieng`` Account
+
+
+3) ``ieng`` Account
 ![Image](lab2-ss5.png)
 
     
