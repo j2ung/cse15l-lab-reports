@@ -5,6 +5,9 @@
 Student
 
 Hello, I am having trouble with my code. Here is the error I am getting:
+![Image](lab5-ss1.png)
+
+I am trying to make a filter and merge method. I want it the filter to return a new list containing the filtered strings while preserving their original order. As for the merge, I want it to take two sorted lists of strings and merges them into a single list while maintaining sorted order.
 
 ```
 
