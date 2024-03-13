@@ -1,6 +1,7 @@
 # Lab Report 4 - Vim
 
 ## Step 4 - Log into ieng6
+![Image](lab4-ss1.png)
 
 ## Step 5 - Clone your fork of the repository from your Github account (using the SSH URL)
 
