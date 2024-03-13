@@ -28,7 +28,7 @@ Explanation:
 * I had to switch to the lab7 directory then run the `test.sh` using bash. This shows the errors in the code.
 
 ## Step 7 - Edit the code file to fix the failing test
-![Image](lab4-ss4.png)
+![Image](lab4-ss.png)
 
 Keys Pressed: 
 `vim ListExamples.java <Enter> </> index1 <Enter>` 
