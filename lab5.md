@@ -43,6 +43,9 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 ![Image](lab5-ss4.png)
 
 1. The file & directory structure needed
+2. The contents of each file before fixing the bug
+3. The full command line (or lines) you ran to trigger the bug
+4. A description of what to edit to fix the bug
 
 ```
 |-Lab 7/
