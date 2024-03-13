@@ -18,7 +18,7 @@ Explanation:
 * I first forked lab 7 repository and copied the `SSH` URL. Since I saved the `SSH` on my github, I was able to git clone with the `SSH` URL. With `git clone`, it will clone the URL to my ieng6.
 
 ## Step 6 - Run the tests, demonstrating that they fail
-![Image](lab4-ss.png)
+![Image](lab4-ss3.png)
 
 Keys Pressed: 
 `cd lab7 <Enter>` 
