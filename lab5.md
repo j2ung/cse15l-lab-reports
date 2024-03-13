@@ -14,10 +14,8 @@ sorted lists of strings and merges them into a single list while maintaining sor
 my code:
 ```
 ![Image](lab5-ss2.png)
-
+---
 ```
-
-
 TA
 
 Hi there! According to the test, the failure occurred because the expected array and the actual array
@@ -26,8 +24,7 @@ to relook at the implementation of the merge method in the ListExamples class to
 merges two sorted lists of strings and returns an array of the expected length with the correct
 elements in sorted order. Let me know how it turns out!
 ```
-
-
+---
 ```
 Student
 
