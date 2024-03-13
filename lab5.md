@@ -16,6 +16,8 @@ my code:
 ![Image](lab5-ss2.png)
 
 -------
+<!-- end of the list -->
+
 ```
 TA:
 
@@ -26,6 +28,8 @@ merges two sorted lists of strings and returns an array of the expected length w
 elements in sorted order. Let me know how it turns out!
 ```
 --------
+<!-- end of the list -->
+
 ```
 Student:
 
