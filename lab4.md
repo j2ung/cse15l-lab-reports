@@ -40,7 +40,7 @@ Explanation:
 ## Step 8 - Run the tests, demonstrating that they now succeed
 
 Keys Pressed: 
-` bash test.sh <Enter>`
+`bash test.sh <Enter>`
 
 Explanation:
 * Now rerunning `test.sh` will show that the test will now pass.
