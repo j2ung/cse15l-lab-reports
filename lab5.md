@@ -42,7 +42,7 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 ![Image](lab5-ss3.png)
 ![Image](lab5-ss4.png)
 
-# The file & directory structure needed
+The file & directory structure needed
 
   ```
   |-Lab 7/
