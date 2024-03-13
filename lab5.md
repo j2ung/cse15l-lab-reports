@@ -43,10 +43,6 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 ![Image](lab5-ss4.png)
 
 1. The file & directory structure needed
-2. The contents of each file before fixing the bug
-3. The full command line (or lines) you ran to trigger the bug
-4. A description of what to edit to fix the bug
-
 ```
 |-Lab 7/
 |
@@ -60,7 +56,6 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 |--test.sh
 
 ```
-
 2. The contents of each file before fixing the bug
    * ListExamples.java
      ```
@@ -148,7 +143,6 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
      javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
      java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
      ```
-     
 3. The full command line (or lines) you ran to trigger the bug
    * While in the lab 7 directory, I ran `bash test.sh` to test the code.
   
