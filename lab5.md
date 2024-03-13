@@ -42,7 +42,7 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 ![Image](lab5-ss3.png)
 ![Image](lab5-ss4.png)
 
-1. The file & directory structure needed
+# The file & directory structure needed
 
   ```
   |-Lab 7/
@@ -57,7 +57,7 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
   |--test.sh
 
   ```
-2. The contents of each file before fixing the bug
+The contents of each file before fixing the bug
    * ListExamples.java
      ```
      import java.util.ArrayList;
@@ -144,10 +144,10 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
      javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
      java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
      ```
-3. The full command line (or lines) you ran to trigger the bug
+The full command line (or lines) you ran to trigger the bug
    * While in the lab 7 directory, I ran `bash test.sh` to test the code.
   
-4. A description of what to edit to fix the bug
+A description of what to edit to fix the bug
    *  As for fixing it, I used `vim ListExamples.java` to access the code. In order to change the code, I used `i` key to insert new code. I changed `>` to `<`. I reran `bash test.sh` to check if it passed and it did.
 
 ## Part 2 - Reflection  
