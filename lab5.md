@@ -43,19 +43,20 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 ![Image](lab5-ss4.png)
 
 1. The file & directory structure needed
-```
-|-Lab 7/
-|
-|--libs/
-|   |
-|   |--hamcrest-2.2.jar
-|   |--junit-4.13.2.jar
-|
-|--ListExamples.java
-|--TestListExamples.java
-|--test.sh
 
-```
+  ```
+  |-Lab 7/
+  |
+  |--libs/
+  |   |
+  |   |--hamcrest-2.2.jar
+  |   |--junit-4.13.2.jar
+  |
+  |--ListExamples.java
+  |--TestListExamples.java
+  |--test.sh
+
+  ```
 2. The contents of each file before fixing the bug
    * ListExamples.java
      ```
