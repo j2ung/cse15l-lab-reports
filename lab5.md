@@ -140,7 +140,7 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 3. The full command line (or lines) you ran to trigger the bug
    * While in the lab 7 directory, I ran `bash test.sh` to test the code.
 
-5. h
+5. A description of what to edit to fix the bug
    *  As for fixing it, I used `vim ListExamples.java` to access the code. In order to change the code, I used `i` key to insert new code. I changed `>` to `<`. I reran `bash test.sh` to check if it passed and it did.
 
 ## Part 2 - Reflection  
