@@ -41,6 +41,7 @@ I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my r
 ```
 ![Image](lab5-ss3.png)
 ![Image](lab5-ss4.png)
+<p>
 
 The file & directory structure needed
 
@@ -150,5 +151,6 @@ The full command line (or lines) you ran to trigger the bug
 A description of what to edit to fix the bug
    *  As for fixing it, I used `vim ListExamples.java` to access the code. In order to change the code, I used `i` key to insert new code. I changed `>` to `<`. I reran `bash test.sh` to check if it passed and it did.
 
+<p>
 ## Part 2 - Reflection  
   * One of the things I learned during the last half of the quarter, was the basics of `vim`. Before, I knew nothiing of `vim`. Now, I know a few things like `i` to edit, `:wq`to save changes, and `:q!` to quit without changes. I also learned how to commit and push changes onto Git repositiories. It makes collabortive coding more organized and efficient. Overall, I think this course was highly educational for me because I was able to learn more when interacting with other students during lab and the coursework itself. 
