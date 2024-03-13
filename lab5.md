@@ -29,7 +29,10 @@ elements in sorted order. Let me know how it turns out!
 ```
 Student:
 
-Okay, I rechecked my merge method. I realized my error resided in this method. Specifically, line 37.
+Okay, I rechecked my merge method. I realized my error resided in this method. I understand now that
+the bug occurs when handling the remaining elements of the input lists after the merge process. It
+fails to properly handle cases where one of the input lists has remaining elements while the other is
+already fully merged. As a result, the ArrayIndexOutOfBoundsException is thrown. Specifically, line 37.
 I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my results:
 ```
 ![Image](lab5-ss3.png)
