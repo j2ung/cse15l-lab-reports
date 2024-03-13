@@ -35,7 +35,7 @@ Keys Pressed:
 `<n> <n> <n> <n> <n> <n> <n> <n> <x> <i> 2 <Esc> <:wq> <enter>`
 
 Explanation:
-* 
+* To edit the code, I used `vim`. A shortcut to look for index1 I used `/index1` then `n` until it reach the one I wanted to edit. After editing, I saved and quit with `:wq`.
 
 ## Step 8 - Run the tests, demonstrating that they now succeed
 
@@ -43,7 +43,7 @@ Keys Pressed:
 ` bash test.sh <Enter>`
 
 Explanation:
-* 
+* Now rerunning `test.sh` will show that the test will now pass.
 
 ## Step 9 - Commit and push the resulting change to your Github account (you can pick any commit message!)
 ![Image](lab4-ss5.png)
@@ -54,7 +54,7 @@ Keys Pressed:
 `git push <Enter>`
 
 Explanation:
-* 
+* Finally adding the new `ListExamples.java` and commiting the change with the message "fix bugs". With `git push`, it will finialize and implement into my GitHub.
 
 
 
