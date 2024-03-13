@@ -30,7 +30,7 @@ Student
 Okay, I rechecked my merge method. I realized my error resided in this method. Specifically, line 37.
 I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my results:
 ```
-![Image](lab5-ss.png)
+![Image](lab5-ss3.png)
 ![Image](lab5-ss4.png)
 
 
