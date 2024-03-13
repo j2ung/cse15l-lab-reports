@@ -2,7 +2,7 @@
 
 ## Part 1 - Debugging Scenario
 ```
-Student
+Student:
 
 Hello, I am having trouble with my code. Here is the error I am getting:
 ```
@@ -17,7 +17,7 @@ my code:
 
 -------
 ```
-TA
+TA:
 
 Hi there! According to the test, the failure occurred because the expected array and the actual array
 have different lengths. This error must be from the merge method. To resolve this issue, you may need
@@ -27,7 +27,7 @@ elements in sorted order. Let me know how it turns out!
 ```
 --------
 ```
-Student
+Student:
 
 Okay, I rechecked my merge method. I realized my error resided in this method. Specifically, line 37.
 I changed it ">" to "<" which perfectly fixed the code. Thank you! Here are my results:
